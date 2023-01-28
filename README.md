@@ -52,7 +52,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 
 
-[EX 6.2 drawing.pdf](https://github.com/Sindhuja9585/EX-No.6.2.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/files/10527009/EX.6.2.drawing.pdf)
+![EX 6 2 drawing](https://user-images.githubusercontent.com/122860624/215262267-45db1645-799a-4746-8ae0-43df7822c217.png)
+
 
 
 
